@@ -240,5 +240,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # Albert
+*.docx
 *.pdf
 *.xlsx
